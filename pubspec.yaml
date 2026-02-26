@@ -1,0 +1,11 @@
+name: sequential_text_switcher
+description: A Flutter widget that switches between texts with sequential slide animations.
+version: 1.0.0
+homepage: https://github.com/abuubaida921/sequential_text_switcher
+
+environment:
+  sdk: ^3.10.7
+
+dependencies:
+  flutter:
+    sdk: flutter

@@ -1,3 +1,5 @@
+import 'package:flutter/material.dart';
+
 enum _AnimPhase { holding, exiting, entering }
 
 class SequentialTextSwitcher extends StatefulWidget {
